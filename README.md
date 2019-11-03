@@ -1,5 +1,5 @@
 # Modul
-Bildverarbeitung (Master Informatik)
+Optimierungsalgorithmen für schwere Probleme (Master Informatik)
 # Semester
 WS 2019/20
 # Übung
